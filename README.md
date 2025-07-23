@@ -15,7 +15,7 @@ You can run this project in two ways:
 
 ### ✅ Option 1: Run Online (GitHub Pages)
 Access the chatbot directly in your browser:  
-🔗 [Live Demo](https://yourusername.github.io/gemini-chatbot/)  
+🔗 [Live Demo](https://teneshwar.github.io/AI-ChatBot/)  
 
 ### ✅ Option 2: Run Locally (For Developers)
 
