@@ -7,8 +7,6 @@
 - 🧠 Context-aware prompt support
 - 🔑 Simple API key integration
 
-## 📸 Screenshot
-
 ## 🚀 Getting Started
 
 You can run this project in two ways:
